@@ -4,7 +4,7 @@
 
 # ✧･ﾟ: *✧･ﾟ:* Hola, soy Mica *:･ﾟ✧ *:･ﾟ✧
 <div align="center">
-  <img src="https://s2.ezgif.com/tmp/ezgif-26efd7894e07e6c3.gif" width="100%" />
+  <img src="https://github.com/user-attachments/assets/b38209b0-a1fb-4a00-952c-5b75e78fb29a" width="100%" />
 </div>
 
 ## Sobre mí
